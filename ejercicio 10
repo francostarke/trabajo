@@ -12,5 +12,4 @@ main(){
 	
 	printf("El número Harmónico es: %6.4f.",Harm);
 }
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Priva
+
